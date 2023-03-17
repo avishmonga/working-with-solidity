@@ -1,0 +1,23 @@
+{
+  "name": "working-with-solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avishmonga/working-with-solidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avishmonga/working-with-solidity/issues"
+  },
+  "homepage": "https://github.com/avishmonga/working-with-solidity#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  }
+}
