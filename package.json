@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/avishmonga/working-with-solidity#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "web3": "^1.8.2"
   }
 }
